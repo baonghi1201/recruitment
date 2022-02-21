@@ -49,4 +49,10 @@ export default makeStyles({
     display: 'flex',
     justifyContent: 'space-between',
   },
+  
+  column:{
+    flex:'50%',
+    height: '30px', 
+  }
+
 });
